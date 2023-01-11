@@ -1,0 +1,7 @@
+D:\Desarrollo\EIT\Java Developer Engineer\Karate\shobukai-parent\shobukai-domain\src\main\java\ar\com\shonukai\domain\dao\exception\GenericException.java
+D:\Desarrollo\EIT\Java Developer Engineer\Karate\shobukai-parent\shobukai-domain\src\main\java\ar\com\shobukai\domain\HistorialExamen.java
+D:\Desarrollo\EIT\Java Developer Engineer\Karate\shobukai-parent\shobukai-domain\src\main\java\ar\com\shobukai\domain\dao\AdministradorDeConexiones.java
+D:\Desarrollo\EIT\Java Developer Engineer\Karate\shobukai-parent\shobukai-domain\src\main\java\ar\com\shobukai\domain\Alumno.java
+D:\Desarrollo\EIT\Java Developer Engineer\Karate\shobukai-parent\shobukai-domain\src\main\java\ar\com\shobukai\domain\dao\AlumnoDAO.java
+D:\Desarrollo\EIT\Java Developer Engineer\Karate\shobukai-parent\shobukai-domain\src\main\java\ar\com\shonukai\domain\dao\impl\AlumnoDAOJDBCMySqlImpl.java
+D:\Desarrollo\EIT\Java Developer Engineer\Karate\shobukai-parent\shobukai-domain\src\main\java\ar\com\shonukai\domain\dao\exception\DuplicatedException.java
