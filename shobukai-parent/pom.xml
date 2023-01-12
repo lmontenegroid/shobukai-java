@@ -15,5 +15,7 @@
   <modules>
   	<module>shobukai-domain</module>
   	<module>shobukai-webapp</module>
+  	<module>shobukai-service</module>
+  	<module>shobukai-dao</module>
   </modules>
 </project>

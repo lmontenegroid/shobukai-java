@@ -8,15 +8,4 @@
 	<artifactId>shobukai-domain</artifactId>
 	<name>Módulo que contiene las tablas que representan la DB</name>
 
-	<!-- drivers -->
-	<dependencies>
-		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.31</version>
-		</dependency>
-
-	</dependencies>
-
 </project>

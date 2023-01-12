@@ -1,4 +1,4 @@
-package ar.com.shobukai.domain.dao;
+package ar.com.shobukai.dao;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

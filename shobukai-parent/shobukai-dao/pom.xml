@@ -5,14 +5,25 @@
 		<artifactId>shobukai-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>shobukai-webapp</artifactId>
+	<artifactId>shobukai-dao</artifactId>
+	<name>capa de DAOS</name>
 
+	<!-- dependencia Domain-->
 	<dependencies>
 		<dependency>
 			<groupId>ar.com.shobukai</groupId>
-			<artifactId>shobukai-service</artifactId>
+			<artifactId>shobukai-domain</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		
+
+
+		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.31</version>
+		</dependency>
+
+
 	</dependencies>
 </project>

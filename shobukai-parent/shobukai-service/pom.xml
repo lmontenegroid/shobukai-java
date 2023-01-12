@@ -5,14 +5,14 @@
 		<artifactId>shobukai-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>shobukai-webapp</artifactId>
-
+	<artifactId>shobukai-service</artifactId>
+	<name>Capa de servicio del proyecto Shobukai</name>
 	<dependencies>
+		<!-- dependencia DAO -->
 		<dependency>
 			<groupId>ar.com.shobukai</groupId>
-			<artifactId>shobukai-service</artifactId>
+			<artifactId>shobukai-dao</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		
 	</dependencies>
 </project>
